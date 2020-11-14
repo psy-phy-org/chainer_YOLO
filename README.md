@@ -1,1 +1,1 @@
-# chainer YOLO dafault
+# Examples of Object detection.
